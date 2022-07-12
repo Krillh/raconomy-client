@@ -1,0 +1,12 @@
+[package]
+name = "raconomy-client"
+version = "0.1.0-alfa"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+winit = "0.26.1"
+serde = "1.0.138"
+fastrand = "1.7.0"
+h2 = "0.3.13"
